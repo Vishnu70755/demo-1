@@ -1,3 +1,4 @@
 # demo 
 
-learning git 
+learning github 
+today
